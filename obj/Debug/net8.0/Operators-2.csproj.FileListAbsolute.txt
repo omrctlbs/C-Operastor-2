@@ -1,0 +1,14 @@
+G:\BTK\Operators-2\bin\Debug\net8.0\Operators-2.exe
+G:\BTK\Operators-2\bin\Debug\net8.0\Operators-2.deps.json
+G:\BTK\Operators-2\bin\Debug\net8.0\Operators-2.runtimeconfig.json
+G:\BTK\Operators-2\bin\Debug\net8.0\Operators-2.dll
+G:\BTK\Operators-2\bin\Debug\net8.0\Operators-2.pdb
+G:\BTK\Operators-2\obj\Debug\net8.0\Operators-2.GeneratedMSBuildEditorConfig.editorconfig
+G:\BTK\Operators-2\obj\Debug\net8.0\Operators-2.AssemblyInfoInputs.cache
+G:\BTK\Operators-2\obj\Debug\net8.0\Operators-2.AssemblyInfo.cs
+G:\BTK\Operators-2\obj\Debug\net8.0\Operators-2.csproj.CoreCompileInputs.cache
+G:\BTK\Operators-2\obj\Debug\net8.0\Operators-2.dll
+G:\BTK\Operators-2\obj\Debug\net8.0\refint\Operators-2.dll
+G:\BTK\Operators-2\obj\Debug\net8.0\Operators-2.pdb
+G:\BTK\Operators-2\obj\Debug\net8.0\Operators-2.genruntimeconfig.cache
+G:\BTK\Operators-2\obj\Debug\net8.0\ref\Operators-2.dll
